@@ -35,13 +35,13 @@ The Heros of Pymoli project is an analysis of purchasing data obtained from a hy
 * Total Purchase Value
 
 ## Most Popular Items
-*Top 5 most popular items are identified by Item ID & Item Name then analyzed with:
+*Top 5 most popular items are identified by Item ID & Item Name then analyzed with:*
 * Purchase Count
 * Item Price
 * Total Purchase Value
 
 ## Most Profitable Items
-*Top 5 most profitable items are identified by Item ID & Item Name then analyzed with:
+*Top 5 most profitable items are identified by Item ID & Item Name then analyzed with:*
 * Purchase Count
 * Item Price
 * Total Purchase Value
